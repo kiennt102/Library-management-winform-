@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code C#\\Winform\\draft_winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|d:\\code c#\\winform\\draft_winform\\draft_winform\\frm_46_staff_i4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_46_staff_i4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_adminfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_4_adminfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_4_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_4_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_3_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_3_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_46_staff_i4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_46_staff_i4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_3_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_3_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_adminfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_4_adminfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_1_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_1_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_5_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E63250FA-D2DB-4843-AF44-AC9018F2001E}|draft_winform\\draft_winform.csproj|solutionrelative:draft_winform\\frm_5_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\Program.cs",
+              "RelativeDocumentMoniker": "draft_winform\\Program.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\Program.cs",
+              "RelativeToolTip": "draft_winform\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T15:26:14.151Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_3_Main.cs [Design]",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_3_Main.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_3_Main.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_3_Main.cs [Design]",
+              "RelativeToolTip": "draft_winform\\frm_3_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T17:34:14.781Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_4_AdminFunc.cs [Design]",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_AdminFunc.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_4_AdminFunc.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_AdminFunc.cs [Design]",
+              "RelativeToolTip": "draft_winform\\frm_4_AdminFunc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T11:26:22.272Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_4_Book.cs [Design]",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_Book.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_4_Book.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_Book.cs [Design]",
+              "RelativeToolTip": "draft_winform\\frm_4_Book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T10:47:25.992Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_5_Statistics.cs [Design]",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_5_Statistics.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_5_Statistics.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_5_Statistics.cs [Design]",
+              "RelativeToolTip": "draft_winform\\frm_5_Statistics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T18:41:16.09Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_46_Staff_i4.cs",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_46_Staff_i4.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_46_Staff_i4.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_46_Staff_i4.cs",
+              "RelativeToolTip": "draft_winform\\frm_46_Staff_i4.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAAAOoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:41:16.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_4_Book.cs",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_Book.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_4_Book.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_Book.cs",
+              "RelativeToolTip": "draft_winform\\frm_4_Book.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwCkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:26:55.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_46_Staff_i4.cs [Design]",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_46_Staff_i4.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_46_Staff_i4.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_46_Staff_i4.cs [Design]",
+              "RelativeToolTip": "draft_winform\\frm_46_Staff_i4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:41:12.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_3_Main.cs",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_3_Main.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_3_Main.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_3_Main.cs",
+              "RelativeToolTip": "draft_winform\\frm_3_Main.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:59:40.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_4_AdminFunc.cs",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_AdminFunc.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_4_AdminFunc.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_4_AdminFunc.cs",
+              "RelativeToolTip": "draft_winform\\frm_4_AdminFunc.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAnwDAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:40:37.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_1_Login.cs [Design]",
+              "DocumentMoniker": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_1_Login.cs",
+              "RelativeDocumentMoniker": "draft_winform\\frm_1_Login.cs",
+              "ToolTip": "D:\\Code C#\\Winform\\draft_winform\\draft_winform\\frm_1_Login.cs [Design]",
+              "RelativeToolTip": "draft_winform\\frm_1_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:22:40.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

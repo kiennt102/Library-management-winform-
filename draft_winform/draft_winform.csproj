@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E63250FA-D2DB-4843-AF44-AC9018F2001E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>draft_winform</RootNamespace>
+    <AssemblyName>draft_winform</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classDataBase.cs" />
+    <Compile Include="frm_40_mybooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_40_mybooks.Designer.cs">
+      <DependentUpon>frm_40_mybooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_41_BookShowAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_41_BookShowAll.Designer.cs">
+      <DependentUpon>frm_41_BookShowAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_421_AddAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_421_AddAuthor.Designer.cs">
+      <DependentUpon>frm_421_AddAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_422_AddType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_422_AddType.Designer.cs">
+      <DependentUpon>frm_422_AddType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_42_AddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_42_AddBook.Designer.cs">
+      <DependentUpon>frm_42_AddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_43_BorowBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_43_BorowBook.Designer.cs">
+      <DependentUpon>frm_43_BorowBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_44_ReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_44_ReturnBook.Designer.cs">
+      <DependentUpon>frm_44_ReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_49_change_Acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_49_change_Acc.Designer.cs">
+      <DependentUpon>frm_49_change_Acc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_48_manageAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_48_manageAccount.Designer.cs">
+      <DependentUpon>frm_48_manageAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_1_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_1_Login.Designer.cs">
+      <DependentUpon>frm_1_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_2_CreatenewAcc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_2_CreatenewAcc.Designer.cs">
+      <DependentUpon>frm_2_CreatenewAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_3_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_3_Main.Designer.cs">
+      <DependentUpon>frm_3_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_47_Reader_i4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_47_Reader_i4.Designer.cs">
+      <DependentUpon>frm_47_Reader_i4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_4_AdminFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_4_AdminFunc.Designer.cs">
+      <DependentUpon>frm_4_AdminFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_45_ShowProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_45_ShowProfile.Designer.cs">
+      <DependentUpon>frm_45_ShowProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_46_Staff_i4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_46_Staff_i4.Designer.cs">
+      <DependentUpon>frm_46_Staff_i4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_4_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_4_Book.Designer.cs">
+      <DependentUpon>frm_4_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_5_Statistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_5_Statistics.Designer.cs">
+      <DependentUpon>frm_5_Statistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_40_mybooks.resx">
+      <DependentUpon>frm_40_mybooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_41_BookShowAll.resx">
+      <DependentUpon>frm_41_BookShowAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_421_AddAuthor.resx">
+      <DependentUpon>frm_421_AddAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_422_AddType.resx">
+      <DependentUpon>frm_422_AddType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_42_AddBook.resx">
+      <DependentUpon>frm_42_AddBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_43_BorowBook.resx">
+      <DependentUpon>frm_43_BorowBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_44_ReturnBook.resx">
+      <DependentUpon>frm_44_ReturnBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_49_change_Acc.resx">
+      <DependentUpon>frm_49_change_Acc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_48_manageAccount.resx">
+      <DependentUpon>frm_48_manageAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_1_Login.resx">
+      <DependentUpon>frm_1_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_2_CreatenewAcc.resx">
+      <DependentUpon>frm_2_CreatenewAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_3_Main.resx">
+      <DependentUpon>frm_3_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_47_Reader_i4.resx">
+      <DependentUpon>frm_47_Reader_i4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_4_AdminFunc.resx">
+      <DependentUpon>frm_4_AdminFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_45_ShowProfile.resx">
+      <DependentUpon>frm_45_ShowProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_46_Staff_i4.resx">
+      <DependentUpon>frm_46_Staff_i4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_4_Book.resx">
+      <DependentUpon>frm_4_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_5_Statistics.resx">
+      <DependentUpon>frm_5_Statistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\chart__.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oic_username.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_show.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_hide.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_hide1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_book.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_Setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PIC_LOGOUT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PIC_USER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_bo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login backgroung.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_book1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_bookmain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_bo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_book2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_func.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_book1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_book2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_book21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\func_reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\func_reload1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\func_statistic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\func_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\func_log out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\func_log out1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\func_log out11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fun_sta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\func_honor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fun_mon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fun_sta1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

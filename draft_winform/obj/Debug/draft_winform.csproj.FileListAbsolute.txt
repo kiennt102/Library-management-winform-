@@ -1,0 +1,106 @@
+D:\codeVS_winform\draft_winform\draft_winform\bin\Debug\draft_winform.exe.config
+D:\codeVS_winform\draft_winform\draft_winform\bin\Debug\draft_winform.exe
+D:\codeVS_winform\draft_winform\draft_winform\bin\Debug\draft_winform.pdb
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.AssemblyReference.cache
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.Login.resources
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.Properties.Resources.resources
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.GenerateResource.cache
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.CoreCompileInputs.cache
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.exe
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.pdb
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.CreateNew.resources
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.CreateAccount.resources
+D:\codeVS_winform\draft_winform\draft_winform\obj\Debug\draft_winform.MainMenu.resources
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\bin\Debug\draft_winform.exe.config
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\bin\Debug\draft_winform.exe
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\bin\Debug\draft_winform.pdb
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.AssemblyReference.cache
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.Login.resources
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.CreateNew.resources
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.CreateAccount.resources
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.Mainmenu.resources
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.Properties.Resources.resources
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.GenerateResource.cache
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.CoreCompileInputs.cache
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.exe
+D:\Anything related to C#\Lập trình windform\draft_winform\draft_winform\obj\Debug\draft_winform.pdb
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\draft_winform.exe.config
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\draft_winform.exe
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\draft_winform.pdb
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.AssemblyReference.cache
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.Login.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.CreateNew.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.CreateAccount.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.Properties.Resources.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.GenerateResource.cache
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.CoreCompileInputs.cache
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.exe
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.pdb
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.ForgetPass.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.ForgetpassReader.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.mainMenu_Admin.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_Account.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_Account_profile.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_Account_staff.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_Reader_account.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_manage_acc.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_49_change_Acc.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.management_book.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_41_BookShowAll.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_421_AddAuthor.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_42_AddBook.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_422_AddType.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_43_BorowBook.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_40_mybooks.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_44_ReturnBook.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_5_Statistics.resources
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.dll
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.WinForms.dll
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.Wpf.dll
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.pdb
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.xml
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.WinForms.pdb
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.WinForms.xml
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.Wpf.pdb
+D:\Anything related to C#\windform\draft_winform\draft_winform\bin\Debug\LiveCharts.Wpf.xml
+D:\Anything related to C#\windform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.CopyComplete
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\draft_winform.exe.config
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\draft_winform.exe
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\draft_winform.pdb
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.dll
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.WinForms.dll
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.Wpf.dll
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.pdb
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.xml
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.WinForms.pdb
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.WinForms.xml
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.Wpf.pdb
+D:\Anything related to C#\Winform\draft_winform\draft_winform\bin\Debug\LiveCharts.Wpf.xml
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.AssemblyReference.cache
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_40_mybooks.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_41_BookShowAll.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_421_AddAuthor.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_422_AddType.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_42_AddBook.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_43_BorowBook.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_44_ReturnBook.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_49_change_Acc.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_manage_acc.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.Login.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.CreateNew.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.CreateAccount.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.ForgetPass.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.mainMenu_Admin.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.ForgetpassReader.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_Reader_account.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_Account.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_Account_profile.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.admin_Account_staff.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.management_book.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.frm_5_Statistics.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.Properties.Resources.resources
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.GenerateResource.cache
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.CoreCompileInputs.cache
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.csproj.CopyComplete
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.exe
+D:\Anything related to C#\Winform\draft_winform\draft_winform\obj\Debug\draft_winform.pdb
